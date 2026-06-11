@@ -1,5 +1,8 @@
 # CLT Composite Laminate Analyzer
 
+
+ACCESS It HERE and ENJOYEEEEE - https://as7714.github.io/composite-clt-analyzer/
+
 **Classical Lamination Theory** analysis tool for carbon fiber / PEKK composites.
 
 Computes ply properties from fiber + matrix inputs using micromechanics (Rule of Mixtures, Halpin-Tsai), then runs full CLT to give you ABD matrices, effective in-plane and flexural properties, and through-thickness stress distributions.
